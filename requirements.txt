@@ -6,6 +6,8 @@ h11
 psycopg2-binary
 pydantic
 websockets
+httptools
+uvloop
 numpy
 pandas
 statsmodels
