@@ -1,0 +1,10 @@
+databases
+fastapi
+gunicorn
+h11
+psycopg2-binary
+pydantic
+websockets
+numpy
+pandas
+statsmodels

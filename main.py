@@ -70,5 +70,3 @@ def get_apartment_complex_details(data:ApartmentComplex):
     predictions = model.predict(X) 
 
     return {'medianComplexValue': predictions[0]}
-
-uvicorn.run(app, host="0.0.0.0", port=8000)
