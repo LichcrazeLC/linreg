@@ -1,6 +1,7 @@
 databases
 fastapi
 gunicorn
+uvicorn
 h11
 psycopg2-binary
 pydantic
