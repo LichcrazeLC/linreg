@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import io
-df = pd.read_csv('apartmentComplexData.csv')
+df = pd.read_csv('/code/app/apartmentComplexData.csv')
 df.head()
 
 import statsmodels.api as sm
